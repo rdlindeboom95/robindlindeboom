@@ -14,9 +14,8 @@
 | *Pandas foundation* | 1, 2, 3, 4 | YES |
 | *Python Data Science Toolbox (Part 2)* | 1, 2, 3 | YES |
 | *Cleaning Data* | 1, 2, 3, 4, 5 | YES |
-| *Statistical Thinking in Python (part 1)* | 1, 2, 3, 4 | NOT YET |
+| *Statistical Thinking in Python (Part 1)* | 1, 2, 3, 4 | NOT YET |
 | *Supervised Learning with scikit - learn* | 1, 2, 3, 4 | NOT YET |
-
 
 ## **Coursera**
 
@@ -24,14 +23,12 @@
 
 | Course | Week | Completed |
 | --- | --- | --- |
-| Introduction and flat files | 1 | NO |
-| Linear Regression with Multiple Variables | 2 | NO |
-| Logistic Regression & Regularization | 3 | NO |
-| Advice for Applying Machine Learning | 6 | NO |
-
+| Introduction and flat files | 1 | NOT YET |
+| Linear Regression with Multiple Variables | 2 | NOT YET |
+| Logistic Regression & Regularization | 3 | NOT YET |
+| Advice for Applying Machine Learning | 6 | NOT YET |
 
 # My Results
-
 
 ## Notebooks
 
