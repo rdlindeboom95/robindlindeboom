@@ -3,7 +3,7 @@ Welcome to the personal GitHub page of Robin Lindeboom. This page is made in acc
 
 
 # **Datacamp**
-Datacamp (datacamp.com) provides online Data Science education. During the minor ADS, several courses were required to be completed. Above you may find my progress. 
+Datacamp (datacamp.com) provides online Data Science education. During the minor ADS, several courses were required to be completed. Below you may find my progress. 
 
 ### *Mandatory Courses* 
 
@@ -23,7 +23,7 @@ Datacamp (datacamp.com) provides online Data Science education. During the minor
 Screenshots: here and here. 
 
 ## **Coursera**
-Coursera (coursera.org) provides free online courses of the prestigious universities from around the globe. During the minor ADS, a selection of exercises from the course 'Machine Learning' of Stanford University were required to be completed. Above you may find my progress.
+Coursera (coursera.org) provides free online courses of the prestigious universities from around the globe. During the minor ADS, a selection of exercises from the course 'Machine Learning' of Stanford University were required to be completed. Below you may find my progress.
 
 ### *Mandatory courses*
 
