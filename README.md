@@ -6,16 +6,16 @@
 
 | Course | Lesson(s) | Completed |
 | --- | --- | --- |
-| Intro to Python for Data Science | 1, 2, 3, 4 | YES |
-| Intermediate Python for Data Science | 1, 2, 3, 4, 5 | YES |
-| Introduction to visualization with Python | 1, 2, 3 | YES |
-| Importing data in Python (Part 1) | 1 | YES |
-| Python Data Science Toolbox (Part 1) | 1 | YES |
-| Pandas foundation | 1, 2, 3, 4 | YES |
-| Python Data Science Toolbox (Part 2) | 1, 2, 3 | YES |
-| Cleaning Data | 1, 2, 3, 4, 5 | YES |
-| Statistical Thinking in Python (part 1) | 1, 2, 3, 4 | NO |
-| Supervised Learning with scikit - learn | 1, 2, 3, 4 | NO |
+| *Intro to Python for Data Science* | 1, 2, 3, 4 | YES |
+| *Intermediate Python for Data Science* | 1, 2, 3, 4, 5 | YES |
+| *Introduction to visualization with Python* | 1, 2, 3 | YES |
+| *Importing data in Python (Part 1)* | 1 | YES |
+| *Python Data Science Toolbox (Part 1)* | 1 | YES |
+| *Pandas foundation* | 1, 2, 3, 4 | YES |
+| *Python Data Science Toolbox (Part 2)* | 1, 2, 3 | YES |
+| *Cleaning Data* | 1, 2, 3, 4, 5 | YES |
+| *Statistical Thinking in Python (part 1)* | 1, 2, 3, 4 | NOT YET |
+| *Supervised Learning with scikit - learn* | 1, 2, 3, 4 | NOT YET |
 
 
 ## **Coursera**
