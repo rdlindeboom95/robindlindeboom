@@ -46,6 +46,21 @@ Screenshots: here and here.
 
 | Week | Internal | External | Link | Motivation |
 | --- | --- | --- | --- | --- | 
-| XX | XX | XX | XX | XX |
+| 1 | X | - | N.Y.A | N.Y.A. |
+| 8 | - | X | N.Y.A. | N.Y.A. |
+| 13 | X | - | N.Y.A. | N.Y.A. |
+
+
+N.Y.A = Not Yet Available
+
+## GitHub articles
+
+| Date | Link | Motivation |
+| --- | --- | --- |
+| 22/09/2017 | N.Y.A. | N.Y.A. |
+| 06/10/2017 | N.Y.A. | N.Y.A. |
+| 27/10/2017 | N.Y.A. | N.Y.A. |
 
 ## Other activities
+
+- Hackathon 
