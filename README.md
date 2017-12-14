@@ -20,7 +20,7 @@ Datacamp (datacamp.com) provides online Data Science education. During the minor
 | *Statistical Thinking in Python (Part 1)* | 1, 2, 3, 4 | NOT YET |
 | *Supervised Learning with scikit - learn* | 1, 2, 3, 4 | NOT YET |
 
-Screenshots: here and here. 
+Screenshots: Screenshots: [here](https://github.com/rdlindeboom95/robindlindeboom/blob/master/Python%201.png?raw=true), [here](https://github.com/rdlindeboom95/robindlindeboom/blob/master/Python%202.png?raw=true), and [here](https://github.com/rdlindeboom95/robindlindeboom/blob/master/Python%203.png?raw=true). 
 
 ## **Coursera**
 Coursera (coursera.org) provides free online courses of the prestigious universities from around the globe. During the minor ADS, a selection of exercises from the course 'Machine Learning' of Stanford University were required to be completed. Below you may find my progress.
@@ -34,7 +34,7 @@ Coursera (coursera.org) provides free online courses of the prestigious universi
 | *Logistic Regression & Regularization* | 3 | NOT YET |
 | *Advice for Applying Machine Learning* | 6 | NOT YET |
 
-Screenshots: here and here. 
+Screenshots: , here and here. 
 
 # My Results
 
